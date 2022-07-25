@@ -1,0 +1,892 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Data Agreement,Age,Gender,Income,Energy Consumption,Tariff,payment_1,Region,Household_size,Concern_1,RES_attitude_1,Providers,Appliances,Task1_1,Task1_2,Task1_3,Task1_4,Time_Explainer_First Click,Time_Explainer_Last Click,Time_Explainer_Page Submit,Time_Explainer_Click Count,Set1,Time_Set1_First Click,Time_Set1_Last Click,Time_Set1_Page Submit,Time_Set1_Click Count,Set2,Time_Set2_First Click,Time_Set2_Last Click,Time_Set2_Page Submit,Time_Set2_Click Count,Set3,Time_Set3_First Click,Time_Set3_Last Click,Time_Set3_Page Submit,Time_Set3_Click Count,Set4,Time_Set4_First Click,Time_Set4_Last Click,Time_Set4_Page Submit,Time_Set4_Click Count,Set5,Time_Set5_First Click,Time_Set5_Last Click,Time_Set5_Page Submit,Time_Set5_Click Count,Set6,Time_Set6_First Click,Time_Set6_Last Click,Time_Set6_Page Submit,Time_Set6_Click Count,Set7,Time_Set7_First Click,Time_Set7_Last Click,Time_Set7_Page Submit,Time_Set7_Click Count,Set8,Time_Set8_First Click,Time_Set8_Last Click,Time_Set8_Page Submit,Time_Set8_Click Count,Set9,Time_Set9_First Click,Time_Set9_Last Click,Time_Set9_Page Submit,Time_Set9_Click Count,Set10,Time_Set10_First Click,Time_Set10_Last Click,Time_Set10_Page Submit,Time_Set10_Click Count,Set11,Time_Set11_First Click,Time_Set11_Last Click,Time_Set11_Page Submit,Time_Set11_Click Count,Set12,Time_Set12_First Click,Time_Set12_Last Click,Time_Set12_Page Submit,Time_Set12_Click Count,Comments
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,"Chcel by som Vás poprosiť o zdieľanie názoru na kontrakty dodávky elektriny. 
+
+Cieľom výskumu je pochopiť, aké typy kontraktov sú najcennejšie pre slovenského zákazníka. Výskum je súčasťou bakalárskej práce na Erazmovej Univerzite v Rotterdame a zaberie približne 10 minút.
+
+Vaše odpovede sú veľmi cenné a budú použité v súlade s etickými zásadami. Žiadne osobné dáta nie sú zbierané a odpovede sú úplne anonymné.
+
+Ďakujem Vám vopred za Váš čas a odpovede!",Koľko máte rokov?,Aké je Vaše pohlavie?,Aký je približný mesačný príjem Vašej domácnosti?,"Viete, aké je Vaše sadzobné pásmo za spotrebu elektriny? (dotazník pokračuje aj keď zaškrtnete možnosť Nie)",Zadajte Vaše sadzobné pásmo:,Aká je Vaša približná mesačná platba za elektrickú energiu? - Platba v €,Kde bývate?,Koľko ľudí býva vo Vašej domácnosti?,"Ako veľmi sa obávate, že produkcia elektrickej energie nenávratne poškodí prírodné prostredie? - Moja obava","Myslíte si, že produkcia energie z obnoviteľných zdrojov (OZ) pomáha zlepšovať životné prostredie? - Produkcia z OZ ...",Ktorých dodávateľov energie poznáte? (môžete zaškrtnúť viacero),"Vyberte všetky spotrebiče, ktoré vlastníte (môžete zaškrtnúť viacero):",Zvoľte - Pravidelne a vedome znižujem teplotu na termostate,Zvoľte - Zaujímam sa o zdroj elektrickej energie môjho poskytovateľa,Zvoľte - Vedome šetrím spotrebu elektrickej energie (napr. vypínanie svetiel a spotrebičov),Zvoľte - Nakupujem šetrnejšie spotrebiče,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ktorý z plánov elektrickej energie by ste si zvolili?
+
+
+Pripomenúť inštrukcie
+[QID54-QuestionText]
+[QID54-QuestionText]",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Ďakujem Vám veľmi pekne za vyplnenie prieskumu. V prípade, že máte pripomienky, komentáre alebo by ste chceli vedieť výsledky výskumu, napíšte mi nižšie (v prípade výsledkov zanechajte kontaktný údaj)."
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID16""}","{""ImportId"":""QID13""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID17_2""}","{""ImportId"":""QID17_3""}","{""ImportId"":""QID17_5""}","{""ImportId"":""QID56_FIRST_CLICK""}","{""ImportId"":""QID56_LAST_CLICK""}","{""ImportId"":""QID56_PAGE_SUBMIT""}","{""ImportId"":""QID56_CLICK_COUNT""}","{""ImportId"":""QID21""}","{""ImportId"":""QID26_FIRST_CLICK""}","{""ImportId"":""QID26_LAST_CLICK""}","{""ImportId"":""QID26_PAGE_SUBMIT""}","{""ImportId"":""QID26_CLICK_COUNT""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30_FIRST_CLICK""}","{""ImportId"":""QID30_LAST_CLICK""}","{""ImportId"":""QID30_PAGE_SUBMIT""}","{""ImportId"":""QID30_CLICK_COUNT""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32_FIRST_CLICK""}","{""ImportId"":""QID32_LAST_CLICK""}","{""ImportId"":""QID32_PAGE_SUBMIT""}","{""ImportId"":""QID32_CLICK_COUNT""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34_FIRST_CLICK""}","{""ImportId"":""QID34_LAST_CLICK""}","{""ImportId"":""QID34_PAGE_SUBMIT""}","{""ImportId"":""QID34_CLICK_COUNT""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36_FIRST_CLICK""}","{""ImportId"":""QID36_LAST_CLICK""}","{""ImportId"":""QID36_PAGE_SUBMIT""}","{""ImportId"":""QID36_CLICK_COUNT""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38_FIRST_CLICK""}","{""ImportId"":""QID38_LAST_CLICK""}","{""ImportId"":""QID38_PAGE_SUBMIT""}","{""ImportId"":""QID38_CLICK_COUNT""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40_FIRST_CLICK""}","{""ImportId"":""QID40_LAST_CLICK""}","{""ImportId"":""QID40_PAGE_SUBMIT""}","{""ImportId"":""QID40_CLICK_COUNT""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42_FIRST_CLICK""}","{""ImportId"":""QID42_LAST_CLICK""}","{""ImportId"":""QID42_PAGE_SUBMIT""}","{""ImportId"":""QID42_CLICK_COUNT""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44_FIRST_CLICK""}","{""ImportId"":""QID44_LAST_CLICK""}","{""ImportId"":""QID44_PAGE_SUBMIT""}","{""ImportId"":""QID44_CLICK_COUNT""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46_FIRST_CLICK""}","{""ImportId"":""QID46_LAST_CLICK""}","{""ImportId"":""QID46_PAGE_SUBMIT""}","{""ImportId"":""QID46_CLICK_COUNT""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_FIRST_CLICK""}","{""ImportId"":""QID48_LAST_CLICK""}","{""ImportId"":""QID48_PAGE_SUBMIT""}","{""ImportId"":""QID48_CLICK_COUNT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50_FIRST_CLICK""}","{""ImportId"":""QID50_LAST_CLICK""}","{""ImportId"":""QID50_PAGE_SUBMIT""}","{""ImportId"":""QID50_CLICK_COUNT""}","{""ImportId"":""QID53_TEXT""}"
+2022-05-18 09:38:36,2022-05-18 09:46:24,IP Address,79,467,False,2022-05-25 09:46:58,R_2QhVhS7x3hq6XKf,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,36,Muž,€2001 - €2500,Nie,,29,Stredné Slovensko,3,Mám neutrálny postoj/Neviem,Mám neutrálny postoj/Neviem,"Slovenské elektrárne – energetické služby, s.r.o.,ZSE Energia, a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Elektrický sporák,Práčka",Neutrálny postoj/Neviem,Neutrálny postoj/Neviem,Skôr súhlasím,Súhlasím,2.841,21.861,23.316,8,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",3.396,27.446,28.458,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",9.389,9.389,10.351,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",8.201,8.201,9.301,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Vodné elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",9.701,9.701,10.716,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",101.551,101.551,102.201,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Všetky obnoviteľné
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",3.768,3.768,4.579,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Biomasa (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",10.901,10.901,11.653,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+Zdroj elektriny: Veterné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",3.6,3.6,4.568,1,,,,,,,,,,,,,,,,,,,,,
+2022-05-18 20:24:10,2022-05-18 20:27:00,IP Address,83,170,False,2022-05-25 20:27:09,R_1nUxCAfYXJc9EUW,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,44,Žena,€2001 - €2500,Nie,,29,Východné Slovensko,4,Neobávam sa,Pomáha,"Slovenské elektrárne – energetické služby, s.r.o.","Chladnička,Elektrický sporák,Práčka,Umývačka riadu",Skôr súhlasím,Skôr súhlasím,Skôr súhlasím,Skôr súhlasím,0.967,2.144,2.638,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",8.727,8.727,9.508,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",2.442,5.702,6.735,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",4.489,4.489,5.281,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",3.392,3.392,3.949,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+
+Zdroj elektriny: Veterné elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",9.071,9.071,9.907,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",3.189,3.189,3.752,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Biomasa (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",2.314,4.539,5.195,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+Zdroj elektriny: Veterné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",3.038,3.038,3.548,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",2.445,3.114,3.145,2,,,,,,,,,,,,,,,,
+2022-05-18 20:13:54,2022-05-18 20:21:09,IP Address,93,434,False,2022-05-25 23:52:24,R_3EnDsvWAIogkXzz,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,50,Muž,€1501 - €2000,Áno,D1,131,Východné Slovensko,2,Vôbec sa neobávam,Pomáha,"Slovenské elektrárne – energetické služby, s.r.o.,Východoslovenská energetika a.s.","Chladnička,Elektrický sporák,Tepelné čerpadlo,Práčka,Sušička,Umývačka riadu",Skôr nesúhlasím,Skôr nesúhlasím,Skôr súhlasím,Skôr súhlasím,17.987,20.706,21.784,3,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",17.303,33.155,34.564,3,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",6.705,29.302,32.198,8,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",2.327,29.614,31.054,6,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Vodné elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",9.286,11.787,13.248,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",5.904,7.871,9.331,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",5.604,7.554,8.945,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Solárne elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",4.115,6.165,7.609,3,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",3.919,5.753,7.047,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Zahraničný
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",2.036,3.784,5.125,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",5.995,7.578,8.917,3,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Biomasa (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",5.177,11.979,12.652,8,,,,,,
+2022-05-19 11:15:22,2022-05-19 11:20:22,IP Address,50,299,False,2022-05-26 11:20:27,R_2EnQRnC5z6MEkB0,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,40,Muž,€1001 - €1500,Áno,D1,21,Západné Slovensko,1,Veľmi sa obávam,Nepomáha,"ZSE Energia, a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Klimatizácia,Elektrický sporák,Práčka",Skôr nesúhlasím,Nesúhlasím,Súhlasím,Súhlasím,0,0,23.563,0,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",24.229,24.229,26.333,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",6.44,6.44,7.886,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-19 17:10:47,2022-05-19 17:18:52,IP Address,79,485,False,2022-05-26 18:36:27,R_2trGXz4cYEDIRpV,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,48,Muž,€1001 - €1500,Áno,D2,42,Západné Slovensko,4,Obávam sa,Nepomáha,"ZSE Energia, a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Elektrický sporák,Práčka",Skôr súhlasím,Neutrálny postoj/Neviem,Neutrálny postoj/Neviem,Skôr súhlasím,4.617,11.921,15.101,6,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",9.235,22.501,25.182,4,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",7.698,10.901,12.547,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Zahraničný
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",1.602,5.453,6.126,4,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",0.701,29.383,30.432,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",24.844,31.367,32.509,3,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Všetky obnoviteľné
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",9.119,20.901,21.816,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Biomasa (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",2.353,10.501,12.038,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+Zdroj elektriny: Veterné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",8.219,8.701,9.576,2,,,,,,,,,,,,,,,,,,,,,
+2022-05-19 18:35:00,2022-05-19 18:42:54,IP Address,60,473,False,2022-05-26 18:42:55,R_3Don6Yln25DC0o5,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,66,Žena,≤€500,Nie,,58,Východné Slovensko,1,Mám neutrálny postoj/Neviem,Mám neutrálny postoj/Neviem,"Slovenské elektrárne – energetické služby, s.r.o.","Chladnička,Práčka,Umývačka riadu",Neutrálny postoj/Neviem,Nesúhlasím,Súhlasím,Súhlasím,12.764,13.506,15.984,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",31.546,31.546,33.069,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",11.795,11.795,13.265,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",8.3,8.3,9.738,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Vodné elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",8.493,8.493,9.917,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-20 06:03:27,2022-05-20 06:10:20,IP Address,50,413,False,2022-05-27 06:10:25,R_3kMrDfvEZspW2kd,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,31,Muž,€501 - €1000,Áno,D2,20,Východné Slovensko,2,Neobávam sa,Pomáha,"Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Elektrický sporák,Práčka,Sušička",Nesúhlasím,Nesúhlasím,Súhlasím,Súhlasím,1.539,37.669,38.225,11,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",41.337,42.891,44.012,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",2.257,3.311,4.301,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-20 18:11:01,2022-05-20 18:16:03,IP Address,50,302,False,2022-05-27 18:16:07,R_3Mg26j5vNy3yWt8,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,48,Muž,€2001 - €2500,Áno,D4,87,Západné Slovensko,7,Neobávam sa,Pomáha,"MAGNA ENERGIA a.s.,ZSE Energia, a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Elektrický boiler,Práčka,Sušička,Umývačka riadu",Skôr nesúhlasím,Neutrálny postoj/Neviem,Skôr súhlasím,Súhlasím,1.371,26.192,27.856,7,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",21.547,24.702,25.858,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",15.701,15.701,16.894,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-20 18:34:48,2022-05-20 18:39:56,IP Address,88,308,False,2022-05-27 19:50:40,R_UDE1Xrj0UjDvJUB,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,57,Muž,€1001 - €1500,Áno,D2,35,Stredné Slovensko,2,Neobávam sa,Veľmi pomáha,"ZSE Energia, a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Práčka,Sušička,Umývačka riadu",Neutrálny postoj/Neviem,Skôr nesúhlasím,Súhlasím,Súhlasím,0,0,7.217,0,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",31.55,31.55,32.522,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",7.08,7.08,8.033,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",5.098,5.098,7.667,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",7.352,9.766,10.885,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",8.302,8.302,9.157,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Všetky obnoviteľné
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",4.536,4.536,5.8,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Solárne elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",5.802,5.802,6.614,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",11.7,11.7,13.286,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",9.448,9.448,10.601,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Vodné elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",2.673,18.099,19.399,2,,,,,,,,,,,
+2022-05-30 22:27:32,2022-05-30 22:30:37,IP Address,93,184,False,2022-06-03 14:56:46,R_2aY7R6KLtMHfqlA,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,20,Žena,€2501+,Nie,,200,Východné Slovensko,3,Mám neutrálny postoj/Neviem,Pomáha,"MAGNA ENERGIA a.s.,Energie2, a.s.,EP ENERGY TRADING, a.s., organizačná zložka","Chladnička,Elektrický sporák,Tepelné čerpadlo,Elektrický boiler,Práčka,Sušička,Umývačka riadu",Neutrálny postoj/Neviem,Nesúhlasím,Súhlasím,Neutrálny postoj/Neviem,6.426,7.378,8.401,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",11.435,11.435,13.313,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",6.191,6.191,7.014,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",4.932,8.654,8.677,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",6.817,6.817,7.791,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",2.631,2.631,3.237,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",1.413,1.413,2.119,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Solárne elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",3.449,3.449,3.976,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+Zdroj elektriny: Veterné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",2.877,3.345,3.369,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",1.329,1.747,1.767,2,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Nutná zmena
+",1.125,1.125,1.597,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Zahraničný
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",1.028,1.028,1.485,1,,,,,,
+2022-05-30 12:40:32,2022-05-30 13:47:16,IP Address,55,4003,False,2022-06-03 14:56:53,R_r8bb9T6nYZTIRfr,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,45,Muž,€2501+,Áno,D2,60,Západné Slovensko,3,Neobávam sa,Pomáha,"ZSE Energia, a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Klimatizácia,Elektrický sporák,Práčka,Sušička,Umývačka riadu",Neutrálny postoj/Neviem,Neutrálny postoj/Neviem,Skôr súhlasím,Súhlasím,5.861,126.283,128.446,5,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",24.042,30.889,50.827,2,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",5.601,5.601,6.661,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",4.901,4.901,8.018,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-30 11:19:33,2022-05-30 11:23:55,IP Address,50,261,False,2022-06-03 14:56:54,R_3HqcKQZSgll15IK,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,25,Žena,€2501+,Áno,D5,105,Východné Slovensko,5,Mám neutrálny postoj/Neviem,Mám neutrálny postoj/Neviem,Východoslovenská energetika a.s.,"Chladnička,Klimatizácia,Elektrický sporák,Práčka,Sušička,Umývačka riadu",Skôr nesúhlasím,Neutrálny postoj/Neviem,Nesúhlasím,Súhlasím,1.023,3.272,4.309,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",20.395,20.395,21.436,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",5.247,8.497,9.754,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-30 09:14:54,2022-05-30 09:21:08,IP Address,55,374,False,2022-06-03 14:57:06,R_2OZ9GbFDzgwVRGa,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,65,Žena,≤€500,Áno,D1,75,Stredné Slovensko,1,Neobávam sa,Pomáha,"ZSE Energia, a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Elektrický sporák,Elektrický boiler,Práčka",Skôr súhlasím,Skôr nesúhlasím,Súhlasím,Skôr súhlasím,1.05,27.701,32.692,33,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",11.977,45.251,46.887,10,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",10.336,22.322,23.748,7,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",4.481,16.158,17.628,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-30 09:05:27,2022-05-30 09:08:20,IP Address,74,172,False,2022-06-03 14:57:08,R_9yhYqtUm0FEkOJj,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,25,Muž,€2501+,Nie,,99,Východné Slovensko,4,Mám neutrálny postoj/Neviem,Veľmi pomáha,"Slovenské elektrárne – energetické služby, s.r.o.,ZSE Energia, a.s.,Greenlogy a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,ELGAS, s.r.o.,Slovenský plynárenský priemysel, a.s.","Chladnička,Elektrický sporák,Tepelné čerpadlo,Práčka,Sušička,Umývačka riadu",Nesúhlasím,Nesúhlasím,Skôr súhlasím,Skôr súhlasím,2.394,7.329,8.2,3,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",12.864,12.864,14.698,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Vodné elektrárne (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",4.876,4.876,6.114,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",8.5,8.5,9.515,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",6.101,6.101,7.459,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+
+Zdroj elektriny: Veterné elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",6.702,6.702,8.826,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Všetky obnoviteľné
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",5.601,5.601,7.096,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Biomasa (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",3.6,3.6,4.864,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-30 08:05:48,2022-05-30 08:09:17,IP Address,69,208,False,2022-06-03 14:57:11,R_3PiZs2PUpimz4mE,anonymous,SK,Súhlasím so spracovaním mojich anonymných odpovedí pre účely výskumu,27,Žena,€2501+,Nie,,29,Západné Slovensko,2,Obávam sa,Veľmi pomáha,"Slovenské elektrárne – energetické služby, s.r.o.,ZSE Energia, a.s.,Stredoslovenská energetika, a. s.,Východoslovenská energetika a.s.,Slovenský plynárenský priemysel, a.s.","Chladnička,Klimatizácia,Elektrický sporák,Práčka",Neutrálny postoj/Neviem,Neutrálny postoj/Neviem,Súhlasím,Skôr súhlasím,1.283,11.244,12.646,6,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+Zdroj elektriny: Biomasa (OZ)
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+Dodávateľ: Súčasný
+",19.404,19.404,20.47,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 - 5}
+
+Zdroj elektriny: Všetky dostupné (OZ+NOZ)
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",5.31,5.31,6.861,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+
+Zdroj elektriny: Solárne elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Nutná zmena
+",1.823,1.823,5.158,1,"KONTRAKT B
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 5}
+Zdroj elektriny: Všetky obnoviteľné
+Pôvod elektriny: Slovenský
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+Dodávateľ: Nutná zmena
+",4.419,4.419,6.079,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1}
+
+Zdroj elektriny: Veterné elektrárne (OZ)
+
+Pôvod elektriny: Slovenský
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Nie
+
+Dodávateľ: Súčasný
+",2.98,2.98,4,1,"KONTRAKT A
+
+Mesačný poplatok: €$e{q://QID10/ChoiceNumericEntryValue/1 + 2}
+
+Zdroj elektriny: Všetky obnoviteľné
+
+Pôvod elektriny: Zahraničný
+
+Možnosť zrušiť zmluvu pred vypršaním platnosti: Áno
+
+Dodávateľ: Súčasný
+",4.079,4.079,5.166,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

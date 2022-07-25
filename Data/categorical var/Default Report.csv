@@ -1,0 +1,112 @@
+Default Report
+Last Modified: 2022-06-06 13:12:11 CEST
+
+
+Income - Aký je približný mesačný príjem Vašej domácnosti?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Aký je približný mesačný príjem Vašej domácnosti?,1.00,7.00,4.19,1.50,2.26,112
+
+#,Answer,%,Count
+1,≤€500,1.79%,2
+2,€501 - €1000,12.50%,14
+3,€1001 - €1500,22.32%,25
+4,€1501 - €2000,21.43%,24
+5,€2001 - €2500,17.86%,20
+6,€2501+,18.75%,21
+7,Preferujem neodpovedať,5.36%,6
+,Total,100%,112
+
+"Energy Consumption - Viete, aké je Vaše sadzobné pásmo za spotrebu elektriny? (dotazník pokračuje aj keď zaškrtnete možnosť Nie)"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Viete, aké je Vaše sadzobné pásmo za spotrebu elektriny? (dotazník pokračuje aj keď zaškrtnete možnosť Nie)",1.00,2.00,1.56,0.50,0.25,112
+
+#,Answer,%,Count
+1,Áno,43.75%,49
+2,Nie,56.25%,63
+,Total,100%,112
+
+Tariff - Zadajte Vaše sadzobné pásmo:
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Zadajte Vaše sadzobné pásmo:,1.00,4.00,2.02,0.82,0.67,49
+
+#,Answer,%,Count
+1,D1,26.53%,13
+2,D2,51.02%,25
+3,D3,16.33%,8
+4,D4,6.12%,3
+5,D5,0.00%,0
+6,D6,0.00%,0
+,Total,100%,49
+
+Region - Kde bývate?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Kde bývate?,1.00,3.00,2.23,0.90,0.80,112
+
+#,Answer,%,Count
+1,Západné Slovensko,31.25%,35
+2,Stredné Slovensko,14.29%,16
+3,Východné Slovensko,54.46%,61
+,Total,100%,112
+
+"Appliances - Vyberte všetky spotrebiče, ktoré vlastníte (môžete zaškrtnúť viacero):"
+Data source misconfigured for this visualization
+
+#,Answer,%,Count
+1,Chladnička,24.50%,111
+2,Klimatizácia,5.52%,25
+3,Elektrický sporák,15.89%,72
+4,Tepelné čerpadlo,1.77%,8
+5,Elektrický boiler,5.74%,26
+6,Práčka,24.50%,111
+7,Sušička,7.06%,32
+8,Umývačka riadu,15.01%,68
+9,Žiadne/Neviem,0.00%,0
+,Total,100%,453
+
+"Concern - Ako veľmi sa obávate, že produkcia elektrickej energie nenávratne poškodí prírodné prostredie?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Moja obava,1.00,5.00,3.04,1.03,1.05,112
+
+#,Answer,%,Count
+1,Vôbec sa neobávam,8.04%,9
+2,Neobávam sa,20.54%,23
+3,Mám neutrálny postoj/Neviem,37.50%,42
+4,Obávam sa,27.68%,31
+5,Veľmi sa obávam,6.25%,7
+,Total,100%,112
+
+"RES_attitude - Myslíte si, že produkcia energie z obnoviteľných zdrojov (OZ) pomáha zlepšovať životné prostredie?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Produkcia z OZ ...,1.00,5.00,3.66,1.04,1.08,112
+
+#,Answer,%,Count
+1,Vôbec nepomáha,1.79%,2
+2,Nepomáha,16.96%,19
+3,Mám neutrálny postoj/Neviem,15.18%,17
+4,Pomáha,45.54%,51
+5,Veľmi pomáha,20.54%,23
+,Total,100%,112
+
+Providers - Ktorých dodávateľov energie poznáte? (môžete zaškrtnúť viacero)
+#,Answer,%,Count
+1,A.En. Slovensko s.r.o.,1.86%,8
+2,"RIGHT POWER, a.s.",0.47%,2
+3,MAGNA ENERGIA a.s.,3.72%,16
+4,"Slovenské elektrárne – energetické služby, s.r.o.",13.02%,56
+5,"ZSE Energia, a.s.",17.21%,74
+6,Pow-en a.s.,0.47%,2
+7,Greenlogy a.s.,3.72%,16
+8,UTYLIS s. r. o.,0.23%,1
+9,"Stredoslovenská energetika, a. s.",14.19%,61
+10,"Energie2, a.s.",2.79%,12
+11,"EP ENERGY TRADING, a.s., organizačná zložka",0.00%,0
+12,Východoslovenská energetika a.s.,19.53%,84
+13,"ELGAS, s.r.o.",0.93%,4
+14,"Slovenský plynárenský priemysel, a.s.",21.63%,93
+15,Žiadny z uvedených,0.23%,1
+,Total,100%,430
+
+Task1 - Zvoľte
+Data source misconfigured for this visualization
+
+Data source misconfigured for this visualization
